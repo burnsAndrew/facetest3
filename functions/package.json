@@ -1,5 +1,5 @@
 {
-  "name": "DemoUnidosXFIS",
+  "name": "find-my-face",
   "description": "Firebase Face Api Recognition",
   "dependencies": {
     "@tensorflow/tfjs-node": "^1.2.1",
